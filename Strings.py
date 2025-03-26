@@ -1,0 +1,7 @@
+print("Hello World!")
+print('Hello World!')
+print('helloworld'.upper())
+print('HELLOWoRLd'.lower())
+print("hello how Are you".title())
+print("Hello Worls".swapcase())
+print("Hello World".replace("World", "Universe"))
